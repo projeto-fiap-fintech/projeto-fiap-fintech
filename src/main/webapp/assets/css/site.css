@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+body{
+    font-family: 'Poppins', sans-serif;
+}
+ 
+.my-title{
+    font-weight: 800;
+}
+ 
+.sobre{
+    min-height: 60vh;
+}
+ 
+.hero{
+    text-align: center;
+    border: 0.1rem none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+    width: 80%;
+    background-color: #ffffff;
+}
+ 
+.btn-outline-danger{
+    background-color: #EB7F98;
+    color: rgb(255, 255, 255);
+}
+ 
+.formatlia{
+    color: white;
+}
+ 
+.margem1{
+    margin: 0px 40px 0px 0px;
+}
+ 
+section div img{
+    margin: 30px 0px -50px 0px;
+}
+ 
+.blackbg{
+    background-color: #FFA6BA;;
+}
+ 
+.formatdiv{
+    width: auto;
+    height: 800px;
+    display: block;
+}
+ 
+.formatdiv2{
+    width: auto;
+    height: 400px;
+    display: block;
+}
